@@ -1,25 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
-
+import EmailForm from './page/login';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <EmailForm/>
     </div>
   );
 }
 
 export default App;
+// V3FhbkN1RkctNnV0ZjE5WHFYNWI6MTpjaQ
+// PrYN-yYywh9UNlvIXTgQ7Zj4iEv-7VdT6HG7UcQPbCX523cnL5
